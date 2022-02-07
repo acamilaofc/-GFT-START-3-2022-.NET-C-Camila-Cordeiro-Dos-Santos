@@ -1,0 +1,15 @@
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\bin\Debug\net6.0\ContarLetras.exe
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\bin\Debug\net6.0\ContarLetras.deps.json
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\bin\Debug\net6.0\ContarLetras.runtimeconfig.json
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\bin\Debug\net6.0\ContarLetras.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\bin\Debug\net6.0\ref\ContarLetras.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\bin\Debug\net6.0\ContarLetras.pdb
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ContarLetras.csproj.AssemblyReference.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ContarLetras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ContarLetras.AssemblyInfoInputs.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ContarLetras.AssemblyInfo.cs
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ContarLetras.csproj.CoreCompileInputs.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ContarLetras.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ref\ContarLetras.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ContarLetras.pdb
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\ContarLetras\obj\Debug\net6.0\ContarLetras.genruntimeconfig.cache

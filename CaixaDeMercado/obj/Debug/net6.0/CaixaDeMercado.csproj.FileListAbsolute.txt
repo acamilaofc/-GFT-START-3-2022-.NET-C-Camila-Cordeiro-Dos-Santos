@@ -1,0 +1,15 @@
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.exe
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.deps.json
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.runtimeconfig.json
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\bin\Debug\net6.0\ref\CaixaDeMercado.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\bin\Debug\net6.0\CaixaDeMercado.pdb
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.csproj.AssemblyReference.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.AssemblyInfoInputs.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.AssemblyInfo.cs
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.csproj.CoreCompileInputs.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\ref\CaixaDeMercado.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.pdb
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CaixaDeMercado\obj\Debug\net6.0\CaixaDeMercado.genruntimeconfig.cache

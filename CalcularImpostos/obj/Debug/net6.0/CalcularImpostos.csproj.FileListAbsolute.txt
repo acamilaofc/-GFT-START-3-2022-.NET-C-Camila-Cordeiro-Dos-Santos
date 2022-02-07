@@ -1,0 +1,15 @@
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.csproj.AssemblyReference.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.AssemblyInfoInputs.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.AssemblyInfo.cs
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.csproj.CoreCompileInputs.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.exe
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.deps.json
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.runtimeconfig.json
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\bin\Debug\net6.0\ref\CalcularImpostos.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\bin\Debug\net6.0\CalcularImpostos.pdb
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\ref\CalcularImpostos.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.pdb
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\CalcularImpostos\obj\Debug\net6.0\CalcularImpostos.genruntimeconfig.cache

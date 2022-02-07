@@ -1,0 +1,15 @@
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\bin\Debug\net6.0\TrabalhandoComArrays.exe
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\bin\Debug\net6.0\TrabalhandoComArrays.deps.json
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\bin\Debug\net6.0\TrabalhandoComArrays.runtimeconfig.json
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\bin\Debug\net6.0\TrabalhandoComArrays.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\bin\Debug\net6.0\ref\TrabalhandoComArrays.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\bin\Debug\net6.0\TrabalhandoComArrays.pdb
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\TrabalhandoComArrays.csproj.AssemblyReference.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\TrabalhandoComArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\TrabalhandoComArrays.AssemblyInfoInputs.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\TrabalhandoComArrays.AssemblyInfo.cs
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\TrabalhandoComArrays.csproj.CoreCompileInputs.cache
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\TrabalhandoComArrays.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\ref\TrabalhandoComArrays.dll
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\TrabalhandoComArrays.pdb
+D:\Repositório\-GFT-START-3-2022-.NET-C-Camila-Cordeiro-Dos-Santos\TrabalhandoComArrays\obj\Debug\net6.0\TrabalhandoComArrays.genruntimeconfig.cache
